@@ -20,7 +20,7 @@ const config = {
     extend: {
       fontFamily: {
         sans: ["var(--font-figtree)"],
-        serif: ["var(--font-eudoxus-sans)"],
+        serif: ["var(--font-eudoxus-sans)", "sans-serif"],
       },
       colors: {
         border: "hsl(var(--border))",
